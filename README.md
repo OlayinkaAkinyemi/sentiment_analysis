@@ -1,5 +1,5 @@
 # sentiment_analysis 
-This projects builds a model that learns the relationship between textual inputs and their associated sentiment (good or bad) using logistic regression.
+This projects builds a model that learns the relationship between textual inputs and their associated sentiment (good or bad) using logistic regression. \n
 The function process_tweet processes a given tweet by lowercasing, removing stopwords and punctuations, tokenizing and stemming.
 All words in the group of string inputs are put in a list of unique words to build a vocabulary.
 Two separate corpuses are defined based on sentimental categorization, that is, positive corpus and negative corpus.
